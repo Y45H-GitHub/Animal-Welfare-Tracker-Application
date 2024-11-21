@@ -29,5 +29,7 @@ An animal welfare platform that enables users to report stray animals and view t
 
 ### APIs
 - **Google Maps API**: 
-  -Used to convert addresses to geographical coordinates (latitude and longitude) 
+  - Used to convert addresses to geographical coordinates (latitude and longitude) 
   - Display the location on the map.
+---
+## Note make sure to replace the API key with your Google Maps JavaScript API key and enable the Geolocation API feature in it.;
