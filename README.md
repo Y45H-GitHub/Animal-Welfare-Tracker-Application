@@ -1,6 +1,6 @@
 # Animal Welfare Website
 
-An animal welfare platform that enables users to report stray animals and view their details. The site provides a seamless interface to register stray animals' details, integrated with Google Maps for geolocation functionality.
+An animal welfare platform that enables users to report stray animals and view their details. The site provides a  interface to register stray animals' details, integrated with Google Maps for geolocation functionality.
 
 ---
 
@@ -32,5 +32,7 @@ An animal welfare platform that enables users to report stray animals and view t
   - Used to convert addresses to geographical coordinates (latitude and longitude) 
   - Display the location on the map.
 ---
-# Note make sure to replace the API key with your Google Maps JavaScript API key and enable the Geolocation API feature in it.
+ Note make sure to replace the API key with your Google Maps JavaScript API key and enable the Geolocation API feature in it.
 API key used in these files: animals.js , report_animal.html , report_animal.js
+---
+Future Updates : Collaborate with animal shelters and hospitals to fully utilize the website.
