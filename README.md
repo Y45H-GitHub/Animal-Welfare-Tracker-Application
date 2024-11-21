@@ -28,4 +28,6 @@ An animal welfare platform that enables users to report stray animals and view t
 - **MySQL**
 
 ### APIs
-- **Google Maps API**: Used to convert addresses to geographical coordinates (latitude and longitude) and display the location on the map.
+- **Google Maps API**: 
+Used to convert addresses to geographical coordinates (latitude and longitude) 
+Display the location on the map.
